@@ -1,0 +1,22 @@
+.footer {
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    height: 50px;
+    background-color: #36D4C1;
+    color: white;
+}
+
+.text {
+    color: white;
+    font-size: 15px;
+    letter-spacing: 2px;
+    text-align: center;
+    font-family: sans-serif;
+    /* position: relative; */
+    /* top: 50%; */
+    /* transform: translateY(-50%); */
+    margin-top: 18px;
+    
+}
